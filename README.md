@@ -23,7 +23,7 @@ To get started with the project, follow these instructions:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/re-sohail/Dynamic-Card-in-React
+   git clone https://github.com/re-sohail/react-gym-website
    ```
 
 2. Install dependencies:
