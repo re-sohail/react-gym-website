@@ -1,0 +1,46 @@
+.feature-container{
+    width: 100%;
+    height: auto;
+    background: #000;
+    padding: 90px 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+
+    h1{
+        font-size: 30px;
+        font-weight: 500;
+        text-transform: uppercase;
+        letter-spacing: 2px;
+    }
+    .features{
+        display: flex;
+        align-items: start;
+        justify-content: space-between;
+        margin-top: 5rem;
+
+        .feature{
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            flex-direction: column;
+            width: 20%;
+
+            img{
+                width: 80px;
+            }
+            h2{
+                font-size: 30px;
+                font-weight: 600;
+                margin: 60px 0 10px;
+            }
+            p{
+                text-align: center;
+                font-size: 14px;
+                color: #dadada;
+            }
+        }
+    }
+
+}

@@ -1,0 +1,57 @@
+.offer-container{
+    width: 100%;
+    height: calc(100vh - 100px);
+    background: url(/src/Assets/offer.png);
+    background-position: top;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+
+    h1{
+        font-size: 90px;
+        font-weight: 600;
+        width: 60%;
+        text-align: center;
+        line-height: 90px;
+        text-transform: uppercase;
+
+        span{
+            color: red;
+            cursor: pointer;
+            transition: all 0.5s ease;
+        }
+        span:hover{
+            color: yellow;
+        }
+    }
+    p{
+        margin: 10px 0 30px;
+
+        span{
+            color: rgb(255, 60, 0);
+            font-weight: 600;
+            cursor: pointer;
+            transition: all 0.5s ease;
+        }
+        span:hover{
+            color: yellow;
+        }
+    }
+    button{
+        padding: 15px 40px;
+        border: none;
+        border-radius: 5px;
+        outline: none;
+        color: #fff;
+        background: red;
+        font-size: 16px;
+        font-weight: 400;
+        cursor: pointer;
+        transition: all 0.4s ease;
+    }
+    button:hover{
+        background: #000;
+    }
+}

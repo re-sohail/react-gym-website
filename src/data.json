@@ -1,0 +1,23 @@
+[
+    {
+        "title": "Weight Lifting",
+        "descreaption": "Get strong with our cool gear and helpful trainers.",
+        "img": "./src/Assets/1.svg"
+    },
+    {
+        "title": "Specific Muscle",
+        "descreaption": "Shape your body with workouts made just for you, guided by friendly trainers.",
+        "img": "./src/Assets/2.svg"
+    },
+    {
+        "title": "Flex Your Muscle",
+        "descreaption": "Feel awesome with classes that make you strong and bendy, led by nice folks.",
+        "img": "./src/Assets/3.svg"
+    },
+    {
+        "title": "Cardio Exercise",
+        "descreaption": "Have fun getting fit with different cardio stuff that suits you best.",
+        "img": "./src/Assets/4.svg"
+    }
+    
+]
